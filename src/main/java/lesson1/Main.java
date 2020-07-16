@@ -1,3 +1,5 @@
+package lesson1;
+
 public class Main {
     public static void main(String[] args) {
         BoxWithFruits<Orange> box1 = new BoxWithFruits<Orange>(
